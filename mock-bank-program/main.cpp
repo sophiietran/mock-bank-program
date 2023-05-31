@@ -1,3 +1,5 @@
+/*MOCK-BANK-PROGRAM*/
+
 #include <iostream>
 #include <iomanip>
 
